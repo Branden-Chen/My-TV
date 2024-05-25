@@ -53,4 +53,3 @@
 
 ## 赞赏
 
-![image](./screenshots/appreciate.jpeg)
