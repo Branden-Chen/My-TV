@@ -15,8 +15,6 @@
        adb install my-tv.apk
        ```
 
-![image](./screenshots/img_3.png)
-![image](./screenshots/img_2.png)
 ![image](./screenshots/img_1.png)
 
 ## 更新日志
